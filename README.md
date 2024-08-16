@@ -10,7 +10,8 @@ Key Features:
 
 ETL & EDA: Extracted, transformed, and loaded (ETL) NFHS data, followed by extensive Exploratory Data Analysis (EDA) to gain insights into IFA tablet consumption across different regions.
 Spatial Analysis: Conducted Local Indicators of Spatial Association (LISA) Analysis using GeoDA to identify Hot Spots (areas with high consumption) and Cold Spots (areas with low consumption) of IFA tablet use.
-Statistical Analysis: Employed Stata for advanced statistical analysis to delve deeper into the data, while Excel was used for initial data cleaning and preliminary analysis.
+Statistical Analysis: Employed Stata for advanced statistical analysis to delve deeper into the data, while SQL was used for initial data cleaning and preliminary analysis.
+
 Highlights:
 
 Identification of Regional Patterns: The LISA analysis revealed significant regional patterns, helping to pinpoint areas that require more attention for IFA supplementation programs.
